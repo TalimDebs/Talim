@@ -1,0 +1,10 @@
+ <style>
+		.logo{
+ 			display: inline-flex;
+ 			justify-content: flex-start;
+ 		}
+ 		.home{
+ 			display: flex;
+ 			justify-content: space-between;
+ 			
+ 		}

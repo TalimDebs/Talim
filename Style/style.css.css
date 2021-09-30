@@ -1,0 +1,461 @@
+body{
+	background-color: #050505;
+	
+}
+.searchbar{
+	display: inline-flex;
+	background-color:#262424;
+	width: 100%;
+	margin-bottom: 30px;
+	margin-top: -7px;
+	justify-content: space-between;
+	height: 60px;
+	padding: 10px;
+	
+}
+.fa-facebook{
+	background-color: blue;
+	color: white;
+	text-decoration-line: none;
+	font-size: 30px;
+	margin: 10px;
+	padding: 5px;
+	border-radius:50%;
+	width: 25px;
+	height: 25px;
+	margin-left: -5px;
+}`
+.search-box{
+	width: 30%;
+	/*display: inline-flex;*/
+
+}
+.logoname{
+	border: 3px solid thick blue;
+	background-color: black;
+	margin-top: 5px;
+	border-radius: 10px;
+	/*width: 40%;*/
+	display: inline-flex;
+	padding: 5px;
+	margin-right: 800px;
+
+}
+button{
+	font-size: large;
+	background-color: black;
+	border-style: none;
+	margin-left: 
+
+
+}
+.fa-search{
+	color: grey;
+	border-style: none;
+
+}
+.texts{
+	font-size: medium;
+	border-style: none;
+	color: grey;
+	background-color: black;
+	font-family: arial;
+
+
+
+}
+.note{
+
+}
+.homepage{
+	/*width: 40%;*/
+}
+.nav-links{
+	display: inline-flex;
+	justify-content: center;
+	background-color: yellow;*/
+	margin-left: 40%;
+	justify-content: space-around;
+	list-style: none;
+	padding: 5px;
+	width: 33%;
+	margin-top:-500px;
+}
+.fa-home{
+	color: grey;
+	padding: 5px;
+	font-size: 27px;
+}
+.fa-flag{
+	color: grey;
+	padding: 5px;
+	font-size: 27px;	
+}
+.fa-camera{
+	color: grey;
+	padding: 5px;
+	font-size: 27px;
+}
+
+
+
+.profile{
+	display: flex;
+	/*background-color: yellow;*/
+	justify-content: space-around;
+	width: 30%;
+	margin-top: 10px;
+	list-style: none;
+
+}
+.status-info{
+	/*background-color: blue;*/
+	color: white;
+	list-style-position: none;
+	list-style: none;
+	display: flex;
+	flex-direction: column;
+	width: 17%;
+	text-decoration: none;
+	list-style: none;
+	list-style-image: inherit;
+	font-family: serif;
+	font-weight: normal;
+	padding: 5px;
+
+
+}
+.details{
+	display: flex;
+	justify-content: center;
+	/*background-color: black;*/
+	color: white;
+	width: 50%;
+	margin-left: 400px;
+	flex-direction: column;
+	padding: 70px 20px;
+	margin-top: -820px;
+	margin-left: 330px;
+	display: block;
+	
+}
+.status{
+	display: inline-flex;
+	justify-content: center;
+	width: 600px;
+
+}
+.one{
+	background-color: #121317;
+	padding: 20px;
+	width: 12%;
+	height: 130px;
+	border-radius: 20px;
+
+}
+.two{
+	background-color: #121317;
+	padding: 20px;
+	width: 12%;
+	border-radius: 20px;
+}
+.three{
+	background-color: #121317;
+	padding: 20px;
+	width: 12%;
+	border-radius: 20px;
+}
+.four{
+	background-color: #121317;
+	padding: 20px;
+	width: 12%;
+	border-radius: 20px;
+}
+.five{
+	background-color: #121317;
+	padding: 20px;
+	width: 12%;
+	border-radius: 20px;
+}
+.live{
+	background-color:#121317;
+	display: inline-flex;
+	width: 60%;
+	justify-content: center;
+	margin-left: 100px;
+	margin-top: 5px;
+	position: relative;
+	border-radius: 10px;
+}
+.namebox{
+	font-size: 15px;
+	font-family: arial;
+	border-radius: 7px;
+	text-align: 100em;
+	display: block;
+	margin-top: 20px;
+	background-color: #262424;
+	color: grey;
+	border-style: hidden;
+}
+.activity{
+	display: inline-flex;
+	list-style: none;
+	text-decoration: none;
+	justify-content: space-between;
+
+}
+.nav-div{
+	display: flex;
+	flex-direction: column;
+
+}
+.nav-one{
+	background-color: #121317;
+	margin: 5px;
+	font-weight: 4px;
+	display: block;
+	padding: 15px;
+	border-radius: 10px;
+}
+.nav-two{
+	background-color: #121317;
+	margin: 5px;
+	display: block;
+	padding: 15px;
+	border-radius: 10px;
+}
+.nav-three{
+	background-color: #121317;
+	margin: 5px;
+	display: block;
+	padding: 15px;
+	border-radius: 10px;
+
+}
+.com-section{
+	display: inline-flex;
+	list-style: none;
+	width: 100%;
+	justify-content: space-around;
+	color: grey;
+}
+.check1{
+	/*	background-color: grey;*/*/
+	width: 20%;
+	margin-left: 1100px;
+	margin-top: -135%;
+	height: 1500px;
+	display: block;
+	color: white;
+	list-style: none;
+}
+.che{
+	
+	list-style: none;
+	color: grey; 
+}
+.short{
+	list-style: none
+}
+.list{
+	list-style: none;
+}
+.names{
+	list-style: none;
+}
+.sett{
+	list-style: none;
+	word-spacing: 5px;
+	letter-spacing: 1px;
+	l
+}
+.confirm{
+	font-size: medium;
+	font-family: serif;
+	border-radius: 5px;
+	border-collapse: 30px;
+}
+.delete{
+	font-size: medium;
+	font-family: serif;
+	border-radius: 5px;
+	margin-left:30px;
+	border-collapse: 20px;
+}
+.Abir{
+	background-color: grey;
+	color: white;
+	padding: 5px;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+
+}
+.Wellington{
+	background-color: grey;
+	color: white;
+	padding: 5px;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+}
+.Ayo{
+	background-color: grey;
+	color: white;
+	padding: 5px;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+}
+.Perfect{
+	background-color: grey;
+	color: white;
+	padding: 5px;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+}
+.Presh{
+	background-color: grey;
+	color: white;
+	padding: 5px;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+}
+.Esther{
+	background-color: grey;
+	color: white;
+	padding: 5px;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px; 
+}
+a: hover{
+	color: yellow;
+	color: #0000
+
+}
+a{
+	text-decoration: none;
+}
+a: active{
+	color: blue;
+}
+a: visited{
+	color: yellow;
+}
+.Van{
+	display: flex;
+	justify-content: space-between;
+}
+.lv{
+	margin-left: -20px;
+}
+.pv{
+	margin-left: 30px;
+}
+.Fa{
+	margin-left: 20px;
+}
+.Create{
+	display: flex;
+	background-color: #121317;
+	width: 80%;
+	margin-left: 70px;
+	margin: 7px;
+	border-radius: 30px;
+
+}
+.Room{
+	border: 1px solid blue;
+	border-radius: 20px;
+	color: blue;
+	font-size: 15px;
+	font-family: helvetica;
+	margin-left: 40px;
+	
+}
+.six{
+	margin-left: 70px;
+	background-color: grey;
+	padding: 7px;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+
+}
+.seven{
+	background-color: grey;
+	padding: 7px;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+}
+.eight{
+	background-color: grey;
+	padding: 7px;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+
+}
+.nine{
+	background-color: grey;
+	padding: 7px;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+
+}
+.nine{
+	background-color: grey;
+	padding: 7px;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+
+}
+.ten{
+	background-color: grey;
+	padding: 7px;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+
+}
+.eleven{
+	background-color: grey;
+	padding: 7px;
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+
+}
+.git{
+	display: inline-flex;
+
+}
+.stic{
+	display: inline-flex;
+	justify-content: space-between;
+	background-color: #3D3D3D;
+	width: 613px;
+	border-radius: 20px;
+	margin-left: 0px;
+
+}
+.wrt{
+	color: #D7D7D9;
+	background-color: #3D3D3D;
+	margin-left: 15px;
+	margin-top: 5px;
+	border-style: none;
+	font-size: 15px;
+	font-family: sans-serif;
+	
+}
+.ls{
+	margin-top: 5px;
+}
